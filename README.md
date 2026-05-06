@@ -1,0 +1,2 @@
+# GYMSPEC
+Gym management service
